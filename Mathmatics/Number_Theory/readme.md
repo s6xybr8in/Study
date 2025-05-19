@@ -1,8 +1,9 @@
 # Books
 - A Friendly Introduction to Number Theory
 - Elementary Number Theory
-- 
-# Lecture
+- Introduction to Analytic Number Theory
+# Lecture 
+## A Friendly Introduction to Number Theory
 - What Is Number Theory?	p. 6
 - Pythagorean Triples	p. 13
 - Pythagorean Triples and the Unit Circle	p. 21
