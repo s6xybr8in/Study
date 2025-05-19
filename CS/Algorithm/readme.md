@@ -1,0 +1,40 @@
+# 웰노운 알고리즘 공부하기
+- DP
+  - CHT
+  - Alien Trick
+  - Bit DP
+  - Divide and Conquer Optimization
+  - Monotone Queue Optimization
+  - 키타마사
+  - monge array
+- Number Theory
+  - Harmonic Lemma
+  - Power Tower
+  - Double Counting
+- Tree 
+  - Li-Chao Tree
+  - Segment Tree Beats
+  - Splay Tree
+  - Sqrt Decompostion
+  - HLD
+  - Centroid Decompostion
+  - Dynamic Segment Tree
+  - Persistent Segment Tree
+  - 이진 트리 변환
+- Mo's
+- Network flow
+  - Max-Flow -1 (Ford-Fulkerson)
+  - Bipartite Matching
+- Graph
+  - Euler Curcit
+  - SCC
+  - BCC
+- 2-Sat
+- String
+  - KMP
+  - Rabin-Karp
+  - Z
+- FFT
+  - FFT
+  - NTT
+  - Online FFT
