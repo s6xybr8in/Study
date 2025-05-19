@@ -1,16 +1,16 @@
 # Study
 - CS
-  - Algorithm
+  - [Algorithm](Mathmatics/Algorithm/)
   - System
     - Kernel
-    - Reversin
+    - Reversing
   - AI
     - DL
 - Mathmatics
-  - Number Theory
-  - Analysis
-  - Probabilty
-  - Topology
+  - [Number Theory](Mathmatics/Number_Theory/)
+  - [Analysis](Mathmatics/Analysis/)
+  - [Probabilty](Mathmatics/Probabilty/)
+  - [Topology](Mathmatics/Topology/)
 - Physics
 
 # TO DO
