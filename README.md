@@ -1,0 +1,18 @@
+# Study
+- CS
+  - Algorithm
+  - System
+    - Kernel
+    - Reversing
+  - AI
+    - 
+- Mathmatics
+  - Number Theory
+  - Analysis
+  - Probabilty
+  - Topology
+- Physics
+
+# TO DO
+- 플레 스트릭 도전 25-05-20 ~
+- 스터디 중 하나 TO DO 완료하기 25-05-20 ~ 
