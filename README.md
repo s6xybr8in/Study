@@ -3,9 +3,9 @@
   - Algorithm
   - System
     - Kernel
-    - Reversing
+    - Reversin
   - AI
-    - 
+    - DL
 - Mathmatics
   - Number Theory
   - Analysis
